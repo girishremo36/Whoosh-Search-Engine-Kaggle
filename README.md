@@ -9,4 +9,4 @@ Patent professionals often rely on Boolean search expressions to ensure comprehe
 The United States Patent and Trademark Office (USPTO) is a federal agency responsible for granting U.S. patents and registering trademarks. It advises government bodies on intellectual property (IP) policy and promotes global IP protection and enforcement. The USPTO manages a vast repository of scientific, technical, and commercial information through its Open Data Portal, comprising over 11 million patents spanning more than two centuries.
 
 # Objective
-The objective of this project is to develop a fully functional search query tool capable of determining the existence of a patent based on user input. The tool will utilize AI techniques to enhance search accuracy and efficiency for patent professionals and researchers.
+The objective of this project is to develop a fully functional search query tool capable of determining the existence of a patent based on user input. It utilizes Whoosh which is a fast, featureful full-text indexing and searching library implemented in pure Python. to enhance search accuracy and efficiency for patent professionals and researchers.
