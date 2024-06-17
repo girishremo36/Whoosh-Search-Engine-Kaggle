@@ -10,3 +10,5 @@ The United States Patent and Trademark Office (USPTO) is a federal agency respon
 
 # Objective
 The objective of this project is to develop a fully functional search query tool capable of determining the existence of a patent based on user input. It utilizes Whoosh which is a fast, featureful full-text indexing and searching library implemented in pure Python. to enhance search accuracy and efficiency for patent professionals and researchers.
+
+For more on Whoosh, you can refer to this documentation: https://whoosh.readthedocs.io/en/latest/intro.html
