@@ -10,5 +10,3 @@ The United States Patent and Trademark Office (USPTO) is a federal agency respon
 
 # Objective
 The objective of this project is to develop a fully functional search query tool capable of determining the existence of a patent based on user input. The tool will utilize AI techniques to enhance search accuracy and efficiency for patent professionals and researchers.
-
-This documentation structure provides a clear overview of the project's purpose, the context of the USPTO's role, and the specific objective of the search engine development. Each section is organized to convey essential information effectively for users and contributors on GitHub.
