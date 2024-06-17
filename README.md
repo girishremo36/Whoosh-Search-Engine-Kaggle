@@ -1,5 +1,4 @@
 # Whoosh-Search-Engine-Kaggle
-
 # Description
 This project involves the creation of a search engine aimed at querying patent data from the United States Patent and Trademark Office (USPTO). The initiative is inspired by the Kaggle competition, which focuses on developing explainable AI solutions for patent professionals.
 
