@@ -1,17 +1,16 @@
 # Whoosh-Search-Engine-Kaggle
-Creation of search engine for querying patent data relating to United States Patent and Trademark Office
 
-This code is based on the kaggle competition: https://www.kaggle.com/competitions/uspto-explainable-ai
+# Description
+This project involves the creation of a search engine aimed at querying patent data from the United States Patent and Trademark Office (USPTO). The initiative is inspired by the Kaggle competition, which focuses on developing explainable AI solutions for patent professionals.
 
-Description
-Inventions are legally protected by patents. Governments grant patents to inventors, offering exclusive rights for a defined period in exchange for public disclosure to foster innovation in various fields. But before an inventor can obtain a patent, a patent professional must assess whether the invention meets the necessary criteria. AI-powered search tools could help patent professionals streamline these tasks.
+Inventions are protected by patents, granted by governments to inventors in exchange for public disclosure. Patent professionals assess inventions against specific criteria before granting patents. AI-powered search tools can aid in streamlining these tasks by providing information such as text snippets, metadata (e.g., classification terms), and similarity scores from search results. However, understanding why specific documents are included in the results can be challenging.
 
-When using search tools, patent professionals receive certain information on documents in the result set. This information may include text and metadata snippets (such as the classification term(s)) that played a significant role in selecting included information, as well as quantitative measures such as similarity scores. However, this provided information may not always fully explain why the specific documents in the result set were returned. Patent professionals are most familiar with leveraging and reading Boolean search expressions to determine whether they have sufficiently searched the patent space.
+Patent professionals often rely on Boolean search expressions to ensure comprehensive searches of the patent space. This project aims to leverage AI to enhance search capabilities, making it easier to determine the existence of patents based on user queries.
 
-About the USPTO
-The United States Patent and Trademark Office (USPTO) is the federal agency for granting U.S. patents and registering trademarks. The USPTO advises the President of the United States, the Secretary of Commerce, and U.S. government agencies on intellectual property (IP) policy, protection, and enforcement; and promotes stronger and more effective IP protection around the world. The agency also provides training, education, and capacity-building programs designed to foster respect for IP and encourage the development of strong IP enforcement regimes by U.S. trading partners.
+# About the USPTO
+The United States Patent and Trademark Office (USPTO) is a federal agency responsible for granting U.S. patents and registering trademarks. It advises government bodies on intellectual property (IP) policy and promotes global IP protection and enforcement. The USPTO manages a vast repository of scientific, technical, and commercial information through its Open Data Portal, comprising over 11 million patents spanning more than two centuries.
 
-The USPTO offers one of the largest repositories of scientific, technical, and commercial information in the world through its Open Data Portal. Patents are a form of intellectual property granted in exchange for the public disclosure of new and useful inventions. Because patents undergo an intensive vetting process prior to grant, and because the history of U.S. innovation spans over two centuries and 11 million patents, the U.S. patent archives stand as a rare combination of data volume, quality, and diversity.
+# Objective
+The objective of this project is to develop a fully functional search query tool capable of determining the existence of a patent based on user input. The tool will utilize AI techniques to enhance search accuracy and efficiency for patent professionals and researchers.
 
-Objective of this project was to create a fully functioning search query to find if the said patent exists or not.
-
+This documentation structure provides a clear overview of the project's purpose, the context of the USPTO's role, and the specific objective of the search engine development. Each section is organized to convey essential information effectively for users and contributors on GitHub.
